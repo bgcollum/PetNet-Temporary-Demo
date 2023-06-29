@@ -1,4 +1,27 @@
-2023 Capstone Project
+This repository is a temporary upload of the PetNet project.
+The PetNet project ran from August 2022 through May of 2023.
+PetNet was developed as a closed-source project, with the intent of open-sourcing its contents upon release.
+Now that the PetNet project has been completed, the original repository is awaiting a visibility update, and until that time this temporary repository will be available for viewing.
+
+
+2022 Structured Systems Analysis Project (Design phase of PetNet)
+Day Section
+Kirkwood Community College
+
+Project Manager:
+
+Product Owner:
+Alexis Oetken
+
+Scrum Leaders:
+SCRUM 1:
+SCRUM 2:
+SCRUM 3: Brian Collum
+SCRUM 4:
+SCRUM 5:
+SCRUM 6:
+
+2023 Capstone Project (Implementation phase of PetNet)
 Day Section
 Kirkwood Community College
 
