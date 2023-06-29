@@ -9,17 +9,15 @@ Day Section
 Kirkwood Community College
 
 Project Manager:
-
-Product Owner:
 Alexis Oetken
 
 Scrum Leaders:
-SCRUM 1:
-SCRUM 2:
+SCRUM 1: Alexis Oetken
+SCRUM 2: Gwen Arman
 SCRUM 3: Brian Collum
-SCRUM 4:
-SCRUM 5:
-SCRUM 6:
+SCRUM 4: Barry Mikulas
+SCRUM 5: Molly Meister
+SCRUM 6: Tyler Hand
 
 2023 Capstone Project (Implementation phase of PetNet)
 Day Section
